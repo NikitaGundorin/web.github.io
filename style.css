@@ -1,0 +1,236 @@
+body{
+    background: #edeef0;
+    margin: 0;
+    padding: 0;
+    font-size: 13px;
+    position: relative;
+}
+
+header{
+	width: 100%;
+	height: 42px;
+	background: #507299;
+	position: fixed;
+	top:0;
+    margin-top: 0;
+}
+
+.header_page {
+    width: 960px;
+    height: 42px;
+    margin: 0px auto;
+    top: 0;
+}
+
+.logo{
+    background: #ffffff;
+    height: 28px;
+    width: 34px;
+    margin: 7px 131 0 0 ;
+    border-radius: 14px;
+    float: left;
+}
+
+.search {
+    background: #305075;
+    height: 28px;
+    width: 230px;
+    margin: 7px 0;
+    border-radius: 14px;
+        float: left;
+}
+
+.notifications {
+    background: #ffffff;
+    height: 28px;
+    width: 28px;
+    margin: 7px 0px 0px 20px;
+    border-radius: 14px;
+    float: left;
+}
+
+.music {
+    background: #ffffff;
+    height: 28px;
+    width: 28px;
+    margin: 7px 0px 0px 10px;
+    border-radius: 14px;
+        float: left;
+}
+
+.top_profile {
+    background: #ffffff;
+    height: 28px;
+    width: 114px;
+    margin: 7px 0px 0px 0px;
+    border-radius: 14px;
+    float: right;
+}
+
+.slide_bar {
+    width: 149px;
+    height: auto;
+    padding: 15px 0 10px;
+    color: #2a5572;
+    float: left;
+    text-align: left;
+    margin: 42px 15px 0px 0px;
+}
+
+.page_layout {
+    width: 960px;
+    margin: 0px auto;
+}
+
+.narrow_column {
+    float: left;
+    width: 230px;
+    height: auto;
+    margin-top: 42px;
+}
+
+.avarar {
+    width: 230px;
+    height: 320px;
+    background: #ffffff;
+    margin: 15px 0px 0px 0px;
+}
+
+.friends {
+    background: #ffffff;
+    height: 177px;
+    margin: 15px 0px 0px 0px;
+}
+
+.people_row {
+    width: 230px;
+    margin: 0px 10px 0px 0px;
+}
+
+.friend {
+    background: #2a5572;
+    float: left;
+    width: 66px;
+    height: 66px;
+    margin: 15 5 0 5;
+    border-radius: 14px;
+}
+
+.friends_online {
+    background: #ffffff;
+    height: 177px;
+    margin: 2px 0px 0px 0px;
+}
+
+.publics {
+    background: #ffffff;
+    height: 195;
+    margin: 15px 0px 0px 0px;
+    padding: 12px 15px 0px 15px;
+}
+
+.public {
+    background: #2a5572;
+    float: left;
+    width: 100%;
+    height: 50px;
+    margin: 0px 0px 15px 0px;
+    border-radius: 14px;
+}
+
+.photos {
+    background: #ffffff;
+    height: 132px;
+    margin: 2px 0px 0px 0px;
+    padding: 12px 15px 0px 15px;
+}
+
+.photo {
+    background: #2a5572;
+    float: left;
+    width: 100%;
+    height: 120px;
+    border-radius: 14px;
+}
+
+.videos {
+    background: #ffffff;
+    height: 270px;
+    margin: 2px 0px 0px 0px;
+    padding: 12px 15px 0px 15px;
+}
+
+.video {
+    background: #2a5572;
+    float: left;
+    width: 100%;
+    height: 120px;
+    border-radius: 14px;
+    margin: 0px 0px 15px 0px;
+}
+
+.audios {
+    background: #ffffff;
+    height: 195;
+    margin: 2px 0px 0px 0px;
+    padding: 12px 15px 0px 15px;
+}
+
+.audio {
+    background: #2a5572;
+    float: left;
+    width: 100%;
+    height: 50px;
+    margin: 0px 0px 15px 0px;
+    border-radius: 14px;
+}
+
+.wide_column {
+    width: 551px;
+    height: auto;
+    float: left;
+    margin: 42px 0px 0px 15px;
+}
+
+.page_block {
+    width: 100%;
+    height: auto;
+    margin-top: 15px;
+}
+
+.page_info {
+    background: #ffffff;
+    width: 100%;
+    height: 230px;
+}
+
+.counts_module {
+    background: #ffffff;
+    width: 100%;
+    height: 68px;
+    margin-top: 2px;
+}
+
+.new_post {
+    background: #ffffff;
+    width: 100%;
+    height: 48px;
+    margin-top: 15px;
+}
+
+.profiles_photos {
+    background: #ffffff;
+    width: 100%;
+    height: 120px;
+    margin-top: 15px;
+    padding: 20px 0px 20px 0px;
+}
+
+.profils_photo {
+    background: #2a5572;
+    float: left;
+    width: 120px;
+    height: 120px;
+    margin: 0px 6px 0px 0px;
+    border-radius: 14px;
+}
